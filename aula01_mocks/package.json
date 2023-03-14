@@ -1,0 +1,11 @@
+{
+  "name": "aula01_mocks",
+  "version": "1.0.0",
+  "description": "Aula sobre mocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
